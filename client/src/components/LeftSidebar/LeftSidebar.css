@@ -61,6 +61,13 @@
       z-index: 10;
     }
   }
+@media screen and (max-width: 1600px) {
+    .left-sidebar {
+/*       position: absolute; */
+      transform: translateX(-100%);
+/*       z-index: 10; */
+    }
+  }
   
 
   
